@@ -1,0 +1,9 @@
+pymobiledevice3
+beautifulsoup4
+lxml
+requests
+geopy
+thefuzz[speedup]
+sqlalchemy
+tqdm
+gpxpy
